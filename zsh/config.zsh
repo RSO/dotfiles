@@ -32,7 +32,7 @@ setopt HIST_REDUCE_BLANKS
 setopt complete_aliases
 
 # Don't autosuggest
-unsetopt correct_all
+unsetopt correct
 
 bindkey '^[^[[D' backward-word
 bindkey '^[^[[C' forward-word
