@@ -20,6 +20,7 @@ brew "rbenv"
 brew "redis", restart_service: true
 brew "starship"
 brew "the_silver_searcher"
+brew "vips"
 brew "wget"
 brew "yarn"
 brew "zsh"
